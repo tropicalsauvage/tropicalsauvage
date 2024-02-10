@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tropicalsauvage
-- 👀 Je suis intéressé par la programation de bots discord
-- 📫 Contactez moi sur loulouhervet26@gmail.com
+- 👋 Hey, je suis @tropicalsauvage
+- 👀 Développeur Back-end.
+- 📫 Contactez moi sur louis@maocloud.fr
 
 <!---
 tropicalsauvage/tropicalsauvage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
