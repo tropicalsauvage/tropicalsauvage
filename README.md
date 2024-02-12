@@ -1,8 +1,14 @@
 - 👋 Hey, je suis @tropicalsauvage
 - 👀 Développeur Back-end.
 - 📫 Contactez moi sur louis@maocloud.fr
-
-Fondateur de Maolcoud et développeur principal.
+-  JavaScript
+-  PHP
+-  Ruby
+-  SQL
+-  NOSQL
+-  C
+-  C#
+Fondateur de Maolcou-D et sysadmin.
 
 <!---
 tropicalsauvage/tropicalsauvage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
